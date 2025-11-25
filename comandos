@@ -1,0 +1,29 @@
+Configuração do ambiente(npm):
+SET PATH=%PATH%;C:\Users\Millena Zovadelli\AppData\Roaming\npm
+
+Instalar Expo CLI : 
+npm install -g expo-cli
+
+Criar projeto: 
+npx create-expo-app@latest <nome-do-projeto>
+
+Instalar o Axios: 
+npm install axios
+
+Selecionar a pasta:
+cd <nome-do-projeto>
+
+Tirar o projeto de exemplo: 
+npm run reset-project
+
+Rodar projeto: 
+npx expo start
+
+Roder direto no navegador: 
+npx expo start -w
+
+Instalar json-server: 
+npm install -g json-server@0.17.4
+
+Rodar json-server (após criar o arquivo db.json): 
+json-server --watch db.json

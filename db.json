@@ -1,0 +1,84 @@
+{
+  "artists": [
+    {
+      "id": 1,
+      "name": "Adele",
+      "realName": "Adele Laurie Blue Adkins",
+      "image": "https://miro.medium.com/1*E9K9KnghgUXw0UcRHYsZLA.jpeg",
+      "genre": "Pop / Soul",
+      "careerStart": 2008,
+      "mainAlbums": ["19", "21", "25", "30"],
+      "biography": "Adele é uma cantora e compositora britânica conhecida por sua poderosa voz e músicas emocionantes sobre amor e superação."
+    },
+    {
+      "id": 2,
+      "name": "Bruno Mars",
+      "realName": "Peter Gene Hernandez",
+      "image": "https://i.imgur.com/YG0VfKp.jpg",
+      "genre": "Pop / Funk",
+      "careerStart": 2004,
+      "mainAlbums": [
+        "Doo-Wops & Hooligans",
+        "Unorthodox Jukebox",
+        "24K Magic"
+      ],
+      "biography": "Bruno Mars é um cantor, produtor e performer americano famoso por suas músicas animadas e apresentações cheias de energia."
+    },
+    {
+      "id": 3,
+      "name": "Taylor Swift",
+      "realName": "Taylor Alison Swift",
+      "image": "https://i.imgur.com/R3S8V9T.jpg",
+      "genre": "Pop / Country",
+      "careerStart": 2006,
+      "mainAlbums": [
+        "Fearless",
+        "1989",
+        "Reputation",
+        "Folklore",
+        "Midnights"
+      ],
+      "biography": "Taylor Swift é uma cantora e compositora americana conhecida por suas letras pessoais e pela grande evolução musical ao longo dos anos."
+    },
+    {
+      "id": 4,
+      "name": "The Weeknd",
+      "realName": "Abel Makkonen Tesfaye",
+      "image": "https://i.imgur.com/sKCGOS1.jpg",
+      "genre": "R&B / Pop",
+      "careerStart": 2010,
+      "mainAlbums": [
+        "Beauty Behind the Madness",
+        "Starboy",
+        "After Hours",
+        "Dawn FM"
+      ],
+      "biography": "The Weeknd é um cantor canadense conhecido por seu estilo misterioso e suas músicas sombrias e envolventes."
+    },
+    {
+      "id": 5,
+      "name": "Rihanna",
+      "realName": "Robyn Rihanna Fenty",
+      "image": "https://i.imgur.com/Vq0TGeD.jpg",
+      "genre": "Pop / R&B",
+      "careerStart": 2005,
+      "mainAlbums": [
+        "Good Girl Gone Bad",
+        "Rated R",
+        "Loud",
+        "Anti"
+      ],
+      "biography": "Rihanna é uma cantora e empresária barbadense que se tornou um ícone global da música e da moda."
+    },
+    {
+      "id": 6,
+      "name": "Ed Sheeran",
+      "realName": "Edward Christopher Sheeran",
+      "image": "https://i.imgur.com/0wDq5cG.jpg",
+      "genre": "Pop / Folk",
+      "careerStart": 2011,
+      "mainAlbums": ["+", "x", "÷", "="],
+      "biography": "Ed Sheeran é um cantor e compositor britânico conhecido por suas baladas românticas e letras sinceras."
+    }
+  ]
+}
